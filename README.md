@@ -14,4 +14,4 @@ Current state-of-the-art test accuracy on CIFAR-10 is around 95%.
 
 This is my submission for [Kaggle's CIFAR-10 Competition](https://www.kaggle.com/c/cifar-10).  
 I modified a ResNet-34 architecture from PyTorch and trained for around 200 epochs.  
-The model achieved a test accuracy of 92.48% on Kaggle. 
+The model achieved a test accuracy of *92.48%* on Kaggle. 

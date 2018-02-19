@@ -10,8 +10,8 @@ CIFAR-10 is a standard object recognition dataset with:
 * 10 object classes - 6000 images per class. 
 * 50,000 training images and 10,000 testing images.  
 
-Current state-of-the-art test accuracy on CIFAR-10 is around 95%.  
+Current state-of-the-art test accuracy on CIFAR-10 is above 95%.  
 
 This is my submission for [Kaggle's CIFAR-10 Competition](https://www.kaggle.com/c/cifar-10).  
 I modified a ResNet-34 architecture from PyTorch and trained for around 200 epochs.  
-The model achieved a test accuracy of *92.48%* on Kaggle. 
+The model achieved a test accuracy of *94.49%* on Kaggle. 
